@@ -1,0 +1,754 @@
+Initialising ...
+Init: successfully malloc element with size of 10 ...
+P: Jobs in buffer: 1, Jobs produced: 1, Jobs consumed: 0
+There are 1 elements in total
+#[0]: 0 running-time 4 created-time 1544680781 sec 497373 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 0 from the queue index 0
+C: Jobs in buffer: 0, Jobs produced: 1, Jobs consumed: 1
+Running: #0 for 4 sec ...
+P: Jobs in buffer: 1, Jobs produced: 2, Jobs consumed: 1
+There are 1 elements in total
+#[0]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 2, Jobs produced: 3, Jobs consumed: 1
+There are 2 elements in total
+#[0]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[1]: 2 running-time 4 created-time 1544680783 sec 497626 usec 1 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 3, Jobs produced: 4, Jobs consumed: 1
+There are 3 elements in total
+#[0]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[1]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[2]: 2 running-time 4 created-time 1544680783 sec 497626 usec 1 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 2 from the queue index 2
+C: Jobs in buffer: 2, Jobs produced: 4, Jobs consumed: 2
+Running: #2 for 4 sec ...
+P: Jobs in buffer: 3, Jobs produced: 5, Jobs consumed: 2
+There are 3 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 4, Jobs produced: 6, Jobs consumed: 2
+There are 4 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 5 running-time 3 created-time 1544680786 sec 693546 usec 1 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 5, Jobs produced: 7, Jobs consumed: 2
+There are 5 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 5 running-time 3 created-time 1544680786 sec 693546 usec 1 priority
+#[4]: 6 running-time 1 created-time 1544680787 sec 696880 usec 1 priority
+#[5]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 6, Jobs produced: 8, Jobs consumed: 2
+There are 6 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[4]: 5 running-time 3 created-time 1544680786 sec 693546 usec 1 priority
+#[5]: 6 running-time 1 created-time 1544680787 sec 696880 usec 1 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 6 from the queue index 5
+C: Jobs in buffer: 5, Jobs produced: 8, Jobs consumed: 3
+Running: #6 for 1 sec ...
+P: Jobs in buffer: 6, Jobs produced: 9, Jobs consumed: 3
+There are 6 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[4]: 5 running-time 3 created-time 1544680786 sec 693546 usec 1 priority
+#[5]: 8 running-time 1 created-time 1544680789 sec 697134 usec 0 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 8 from the queue index 5
+C: Jobs in buffer: 5, Jobs produced: 9, Jobs consumed: 4
+Running: #8 for 1 sec ...
+P: Jobs in buffer: 6, Jobs produced: 10, Jobs consumed: 4
+There are 6 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[4]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[5]: 5 running-time 3 created-time 1544680786 sec 693546 usec 1 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 5 from the queue index 5
+C: Jobs in buffer: 5, Jobs produced: 10, Jobs consumed: 5
+Running: #5 for 3 sec ...
+P: Jobs in buffer: 6, Jobs produced: 11, Jobs consumed: 5
+There are 6 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[2]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[3]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[4]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[5]: 10 running-time 2 created-time 1544680791 sec 697572 usec 2 priority
+#[6]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 7, Jobs produced: 12, Jobs consumed: 5
+There are 7 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[2]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[3]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[4]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[5]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[6]: 10 running-time 2 created-time 1544680791 sec 697572 usec 2 priority
+#[7]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 8, Jobs produced: 13, Jobs consumed: 5
+There are 8 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[2]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[3]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[4]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[5]: 12 running-time 3 created-time 1544680793 sec 699223 usec 2 priority
+#[6]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[7]: 10 running-time 2 created-time 1544680791 sec 697572 usec 2 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 10 from the queue index 7
+C: Jobs in buffer: 7, Jobs produced: 13, Jobs consumed: 6
+Running: #10 for 2 sec ...
+P: Jobs in buffer: 8, Jobs produced: 14, Jobs consumed: 6
+There are 8 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[2]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[3]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[4]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[5]: 13 running-time 3 created-time 1544680794 sec 699349 usec 1 priority
+#[6]: 12 running-time 3 created-time 1544680793 sec 699223 usec 2 priority
+#[7]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[8]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 9, Jobs produced: 15, Jobs consumed: 6
+There are 9 elements in total
+#[0]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[1]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[2]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[3]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[4]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[5]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[6]: 13 running-time 3 created-time 1544680794 sec 699349 usec 1 priority
+#[7]: 12 running-time 3 created-time 1544680793 sec 699223 usec 2 priority
+#[8]: 9 running-time 3 created-time 1544680790 sec 697453 usec 1 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 9 from the queue index 8
+C: Jobs in buffer: 8, Jobs produced: 15, Jobs consumed: 7
+Running: #9 for 3 sec ...
+P: Jobs in buffer: 9, Jobs produced: 16, Jobs consumed: 7
+There are 9 elements in total
+#[0]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[1]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[2]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[3]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[4]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[5]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[6]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[7]: 13 running-time 3 created-time 1544680794 sec 699349 usec 1 priority
+#[8]: 12 running-time 3 created-time 1544680793 sec 699223 usec 2 priority
+#[9]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+P: Jobs in buffer: 10, Jobs produced: 17, Jobs consumed: 7
+There are 10 elements in total
+#[0]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[1]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[2]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[3]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[4]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[5]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[6]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[7]: 16 running-time 3 created-time 1544680797 sec 699787 usec 0 priority
+#[8]: 13 running-time 3 created-time 1544680794 sec 699349 usec 1 priority
+#[9]: 12 running-time 3 created-time 1544680793 sec 699223 usec 2 priority
+Remove: 12 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 17, Jobs consumed: 8
+Running: #12 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 18, Jobs consumed: 8
+There are 10 elements in total
+#[0]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[1]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[2]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[3]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[4]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[5]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[6]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[7]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[8]: 16 running-time 3 created-time 1544680797 sec 699787 usec 0 priority
+#[9]: 13 running-time 3 created-time 1544680794 sec 699349 usec 1 priority
+Remove: 13 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 18, Jobs consumed: 9
+Running: #13 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 19, Jobs consumed: 9
+There are 10 elements in total
+#[0]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[1]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[2]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[3]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[4]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[5]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[6]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[7]: 18 running-time 4 created-time 1544680800 sec 505080 usec 1 priority
+#[8]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[9]: 16 running-time 3 created-time 1544680797 sec 699787 usec 0 priority
+Remove: 16 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 19, Jobs consumed: 10
+Running: #16 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 20, Jobs consumed: 10
+There are 10 elements in total
+#[0]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[1]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[2]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[3]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[4]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[5]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[6]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[7]: 18 running-time 4 created-time 1544680800 sec 505080 usec 1 priority
+#[8]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+#[9]: 19 running-time 2 created-time 1544680803 sec 500698 usec 1 priority
+Remove: 19 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 20, Jobs consumed: 11
+Running: #19 for 2 sec ...
+P: Jobs in buffer: 10, Jobs produced: 21, Jobs consumed: 11
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[5]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[6]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[7]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[8]: 18 running-time 4 created-time 1544680800 sec 505080 usec 1 priority
+#[9]: 7 running-time 4 created-time 1544680788 sec 697013 usec 1 priority
+Remove: 7 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 21, Jobs consumed: 12
+Running: #7 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 22, Jobs consumed: 12
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[5]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[6]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[7]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[8]: 18 running-time 4 created-time 1544680800 sec 505080 usec 1 priority
+#[9]: 21 running-time 2 created-time 1544680809 sec 500239 usec 2 priority
+Remove: 21 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 22, Jobs consumed: 13
+Running: #21 for 2 sec ...
+P: Jobs in buffer: 10, Jobs produced: 23, Jobs consumed: 13
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[5]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[6]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[7]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[8]: 22 running-time 5 created-time 1544680811 sec 500357 usec 1 priority
+#[9]: 18 running-time 4 created-time 1544680800 sec 505080 usec 1 priority
+Remove: 18 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 23, Jobs consumed: 14
+Running: #18 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 24, Jobs consumed: 14
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[9]: 22 running-time 5 created-time 1544680811 sec 500357 usec 1 priority
+Remove: 22 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 24, Jobs consumed: 15
+Running: #22 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 25, Jobs consumed: 15
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[9]: 24 running-time 6 created-time 1544680817 sec 500677 usec 0 priority
+Remove: 24 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 25, Jobs consumed: 16
+Running: #24 for 6 sec ...
+P: Jobs in buffer: 10, Jobs produced: 26, Jobs consumed: 16
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[9]: 25 running-time 4 created-time 1544680821 sec 500833 usec 1 priority
+Remove: 25 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 26, Jobs consumed: 17
+Running: #25 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 27, Jobs consumed: 17
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+#[9]: 26 running-time 2 created-time 1544680826 sec 501477 usec 2 priority
+Remove: 26 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 27, Jobs consumed: 18
+Running: #26 for 2 sec ...
+P: Jobs in buffer: 10, Jobs produced: 28, Jobs consumed: 18
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 27 running-time 7 created-time 1544680832 sec 501021 usec 0 priority
+#[9]: 3 running-time 7 created-time 1544680784 sec 647060 usec 0 priority
+Remove: 3 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 28, Jobs consumed: 19
+Running: #3 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 29, Jobs consumed: 19
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 27 running-time 7 created-time 1544680832 sec 501021 usec 0 priority
+#[9]: 28 running-time 3 created-time 1544680836 sec 501096 usec 2 priority
+Remove: 28 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 29, Jobs consumed: 20
+Running: #28 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 30, Jobs consumed: 20
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 29 running-time 7 created-time 1544680838 sec 501283 usec 1 priority
+#[9]: 27 running-time 7 created-time 1544680832 sec 501021 usec 0 priority
+Remove: 27 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 30, Jobs consumed: 21
+Running: #27 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 31, Jobs consumed: 21
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 29 running-time 7 created-time 1544680838 sec 501283 usec 1 priority
+#[9]: 30 running-time 6 created-time 1544680845 sec 503049 usec 0 priority
+Remove: 30 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 31, Jobs consumed: 22
+Running: #30 for 6 sec ...
+P: Jobs in buffer: 10, Jobs produced: 32, Jobs consumed: 22
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 29 running-time 7 created-time 1544680838 sec 501283 usec 1 priority
+#[9]: 31 running-time 5 created-time 1544680848 sec 503190 usec 0 priority
+Remove: 31 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 32, Jobs consumed: 23
+Running: #31 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 33, Jobs consumed: 23
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 32 running-time 7 created-time 1544680855 sec 503287 usec 2 priority
+#[9]: 29 running-time 7 created-time 1544680838 sec 501283 usec 1 priority
+Remove: 29 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 33, Jobs consumed: 24
+Running: #29 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 34, Jobs consumed: 24
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 32 running-time 7 created-time 1544680855 sec 503287 usec 2 priority
+Remove: 32 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 34, Jobs consumed: 25
+Running: #32 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 35, Jobs consumed: 25
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 34 running-time 4 created-time 1544680866 sec 503506 usec 2 priority
+Remove: 34 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 35, Jobs consumed: 26
+Running: #34 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 36, Jobs consumed: 26
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 35 running-time 5 created-time 1544680873 sec 504158 usec 0 priority
+Remove: 35 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 36, Jobs consumed: 27
+Running: #35 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 37, Jobs consumed: 27
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 36 running-time 3 created-time 1544680880 sec 510660 usec 0 priority
+Remove: 36 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 37, Jobs consumed: 28
+Running: #36 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 38, Jobs consumed: 28
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 37 running-time 5 created-time 1544680884 sec 507699 usec 0 priority
+Remove: 37 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 38, Jobs consumed: 29
+Running: #37 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 39, Jobs consumed: 29
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 38 running-time 5 created-time 1544680889 sec 505438 usec 2 priority
+Remove: 38 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 39, Jobs consumed: 30
+Running: #38 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 40, Jobs consumed: 30
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[6]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[7]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[8]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+#[9]: 39 running-time 4 created-time 1544680892 sec 505553 usec 2 priority
+Remove: 39 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 40, Jobs consumed: 31
+Running: #39 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 41, Jobs consumed: 31
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[6]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[7]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[8]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[9]: 33 running-time 7 created-time 1544680861 sec 503939 usec 0 priority
+Remove: 33 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 41, Jobs consumed: 32
+Running: #33 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 42, Jobs consumed: 32
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[5]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[6]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[7]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[8]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+#[9]: 41 running-time 7 created-time 1544680902 sec 505835 usec 2 priority
+Remove: 41 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 42, Jobs consumed: 33
+Running: #41 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 43, Jobs consumed: 33
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[5]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[6]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[7]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[8]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[9]: 1 running-time 8 created-time 1544680782 sec 497507 usec 1 priority
+Remove: 1 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 43, Jobs consumed: 34
+Running: #1 for 8 sec ...
+P: Jobs in buffer: 10, Jobs produced: 44, Jobs consumed: 34
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[5]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[6]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[7]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[8]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[9]: 43 running-time 4 created-time 1544680913 sec 506015 usec 2 priority
+Remove: 43 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 44, Jobs consumed: 35
+Running: #43 for 4 sec ...
+P: Jobs in buffer: 10, Jobs produced: 45, Jobs consumed: 35
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[5]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[6]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[7]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[8]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[9]: 44 running-time 5 created-time 1544680920 sec 506576 usec 1 priority
+Remove: 44 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 45, Jobs consumed: 36
+Running: #44 for 5 sec ...
+P: Jobs in buffer: 10, Jobs produced: 46, Jobs consumed: 36
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[5]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[6]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[7]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[8]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[9]: 45 running-time 3 created-time 1544680928 sec 506248 usec 0 priority
+Remove: 45 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 46, Jobs consumed: 37
+Running: #45 for 3 sec ...
+P: Jobs in buffer: 10, Jobs produced: 47, Jobs consumed: 37
+There are 10 elements in total
+#[0]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[1]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[2]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[3]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[4]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[5]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[6]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[7]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[8]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+#[9]: 46 running-time 7 created-time 1544680932 sec 506438 usec 0 priority
+Remove: 46 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 47, Jobs consumed: 38
+Running: #46 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 48, Jobs consumed: 38
+There are 10 elements in total
+#[0]: 47 running-time 10 created-time 1544680937 sec 506612 usec 1 priority
+#[1]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[2]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[3]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[4]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[5]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[6]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[7]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[8]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[9]: 11 running-time 8 created-time 1544680792 sec 699061 usec 0 priority
+Remove: 11 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 48, Jobs consumed: 39
+Running: #11 for 8 sec ...
+P: Jobs in buffer: 10, Jobs produced: 49, Jobs consumed: 39
+There are 10 elements in total
+#[0]: 47 running-time 10 created-time 1544680937 sec 506612 usec 1 priority
+#[1]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[2]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[3]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[4]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[5]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[6]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[7]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[8]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[9]: 48 running-time 7 created-time 1544680940 sec 506915 usec 0 priority
+Remove: 48 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 49, Jobs consumed: 40
+Running: #48 for 7 sec ...
+P: Jobs in buffer: 10, Jobs produced: 50, Jobs consumed: 40
+There are 10 elements in total
+#[0]: 47 running-time 10 created-time 1544680937 sec 506612 usec 1 priority
+#[1]: 20 running-time 10 created-time 1544680806 sec 500285 usec 0 priority
+#[2]: 17 running-time 10 created-time 1544680798 sec 699919 usec 0 priority
+#[3]: 15 running-time 10 created-time 1544680796 sec 699596 usec 0 priority
+#[4]: 4 running-time 10 created-time 1544680785 sec 693405 usec 1 priority
+#[5]: 42 running-time 9 created-time 1544680906 sec 505918 usec 0 priority
+#[6]: 23 running-time 9 created-time 1544680815 sec 501055 usec 2 priority
+#[7]: 40 running-time 8 created-time 1544680897 sec 505645 usec 0 priority
+#[8]: 14 running-time 8 created-time 1544680795 sec 699489 usec 1 priority
+#[9]: 49 running-time 5 created-time 1544680947 sec 507046 usec 2 priority
+Remove: 49 from the queue index 9
+C: Jobs in buffer: 9, Jobs produced: 50, Jobs consumed: 41
+Running: #49 for 5 sec ...
+Remove: 14 from the queue index 8
+C: Jobs in buffer: 8, Jobs produced: 50, Jobs consumed: 42
+Running: #14 for 8 sec ...
+Remove: 40 from the queue index 7
+C: Jobs in buffer: 7, Jobs produced: 50, Jobs consumed: 43
+Running: #40 for 8 sec ...
+Remove: 23 from the queue index 6
+C: Jobs in buffer: 6, Jobs produced: 50, Jobs consumed: 44
+Running: #23 for 9 sec ...
+Remove: 42 from the queue index 5
+C: Jobs in buffer: 5, Jobs produced: 50, Jobs consumed: 45
+Running: #42 for 9 sec ...
+Remove: 4 from the queue index 4
+C: Jobs in buffer: 4, Jobs produced: 50, Jobs consumed: 46
+Running: #4 for 10 sec ...
+Remove: 15 from the queue index 3
+C: Jobs in buffer: 3, Jobs produced: 50, Jobs consumed: 47
+Running: #15 for 10 sec ...
+Remove: 17 from the queue index 2
+C: Jobs in buffer: 2, Jobs produced: 50, Jobs consumed: 48
+Running: #17 for 10 sec ...
+Remove: 20 from the queue index 1
+C: Jobs in buffer: 1, Jobs produced: 50, Jobs consumed: 49
+Running: #20 for 10 sec ...
+Remove: 47 from the queue index 0
+C: Jobs in buffer: 0, Jobs produced: 50, Jobs consumed: 50
+Running: #47 for 10 sec ...
+Average response time: 45162.88
+Average turnaround time: 50543.08

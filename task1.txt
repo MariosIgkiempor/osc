@@ -1,0 +1,102 @@
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Performing FIFO ...
+Add: pid 0 into the queue with time 8
+Add: pid 1 into the queue with time 4
+Add: pid 2 into the queue with time 1
+Add: pid 3 into the queue with time 5
+Add: pid 4 into the queue with time 4
+There are 5 elements in total
+#[0]: 4 running-time 4 created-time 1542702635 sec 916958 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542702634 sec 915106 usec 2 priority
+#[2]: 2 running-time 1 created-time 1542702633 sec 913689 usec 2 priority
+#[3]: 1 running-time 4 created-time 1542702632 sec 909258 usec 2 priority
+#[4]: 0 running-time 8 created-time 1542702631 sec 903992 usec 1 priority
+Remove: 0 from the queue index 4
+There are 4 elements in total
+#[0]: 4 running-time 4 created-time 1542702635 sec 916958 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542702634 sec 915106 usec 2 priority
+#[2]: 2 running-time 1 created-time 1542702633 sec 913689 usec 2 priority
+#[3]: 1 running-time 4 created-time 1542702632 sec 909258 usec 2 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 1 from the queue index 3
+There are 3 elements in total
+#[0]: 4 running-time 4 created-time 1542702635 sec 916958 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542702634 sec 915106 usec 2 priority
+#[2]: 2 running-time 1 created-time 1542702633 sec 913689 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 2 from the queue index 2
+There are 2 elements in total
+#[0]: 4 running-time 4 created-time 1542702635 sec 916958 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542702634 sec 915106 usec 2 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 3 from the queue index 1
+There are 1 elements in total
+#[0]: 4 running-time 4 created-time 1542702635 sec 916958 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 4 from the queue index 0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Performing LIFO ...
+Add: pid 5 into the queue with time 1
+Add: pid 6 into the queue with time 3
+Add: pid 7 into the queue with time 8
+Add: pid 8 into the queue with time 8
+Add: pid 9 into the queue with time 1
+There are 5 elements in total
+#[0]: 5 running-time 1 created-time 1542702636 sec 959825 usec 2 priority
+#[1]: 6 running-time 3 created-time 1542702637 sec 961283 usec 2 priority
+#[2]: 7 running-time 8 created-time 1542702638 sec 961455 usec 2 priority
+#[3]: 8 running-time 8 created-time 1542702639 sec 966734 usec 1 priority
+#[4]: 9 running-time 1 created-time 1542702640 sec 971972 usec 1 priority
+Remove: 9 from the queue index 4
+There are 4 elements in total
+#[0]: 5 running-time 1 created-time 1542702636 sec 959825 usec 2 priority
+#[1]: 6 running-time 3 created-time 1542702637 sec 961283 usec 2 priority
+#[2]: 7 running-time 8 created-time 1542702638 sec 961455 usec 2 priority
+#[3]: 8 running-time 8 created-time 1542702639 sec 966734 usec 1 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 8 from the queue index 3
+There are 3 elements in total
+#[0]: 5 running-time 1 created-time 1542702636 sec 959825 usec 2 priority
+#[1]: 6 running-time 3 created-time 1542702637 sec 961283 usec 2 priority
+#[2]: 7 running-time 8 created-time 1542702638 sec 961455 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 7 from the queue index 2
+There are 2 elements in total
+#[0]: 5 running-time 1 created-time 1542702636 sec 959825 usec 2 priority
+#[1]: 6 running-time 3 created-time 1542702637 sec 961283 usec 2 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 6 from the queue index 1
+There are 1 elements in total
+#[0]: 5 running-time 1 created-time 1542702636 sec 959825 usec 2 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Remove: 5 from the queue index 0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority

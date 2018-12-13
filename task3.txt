@@ -1,0 +1,183 @@
+initialising q0...
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+initialised q0...
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+initialising q0...
+Q #1
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+initialising q0...
+Q #2
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Generating processes for PQ ...
+New process has priority 1
+PQ 1: add new
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #1
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1543146781 sec 298790 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #2
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+New process has priority 2
+PQ 2: add new
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #1
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1543146781 sec 298790 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #2
+There are 1 elements in total
+#[0]: 1 running-time 4 created-time 1543146782 sec 300949 usec 2 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+New process has priority 2
+PQ 2: add new
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #1
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1543146781 sec 298790 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #2
+There are 2 elements in total
+#[0]: 2 running-time 1 created-time 1543146783 sec 305084 usec 2 priority
+#[1]: 1 running-time 4 created-time 1543146782 sec 300949 usec 2 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+New process has priority 2
+PQ 2: add new
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #1
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1543146781 sec 298790 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #2
+There are 3 elements in total
+#[0]: 2 running-time 1 created-time 1543146783 sec 305084 usec 2 priority
+#[1]: 1 running-time 4 created-time 1543146782 sec 300949 usec 2 priority
+#[2]: 3 running-time 5 created-time 1543146784 sec 308690 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+New process has priority 1
+PQ 1: add new
+Q #0
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #1
+There are 2 elements in total
+#[0]: 4 running-time 4 created-time 1543146785 sec 308954 usec 1 priority
+#[1]: 0 running-time 8 created-time 1543146781 sec 298790 usec 1 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q #2
+There are 3 elements in total
+#[0]: 2 running-time 1 created-time 1543146783 sec 305084 usec 2 priority
+#[1]: 1 running-time 4 created-time 1543146782 sec 300949 usec 2 priority
+#[2]: 3 running-time 5 created-time 1543146784 sec 308690 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Q: 1 P: 4 C: 1543146785 S: 1543146786 R: 1002
+Q #1 >>> pid: 4 remain time 4, will be running for 2 sec
+Running: #4 for 2 sec ...
+Q: 1 P: 0 C: 1543146781 S: 1543146788 R: 7017
+Q #1 >>> pid: 0 remain time 8, will be running for 2 sec
+Running: #0 for 2 sec ...
+Q #1 >>> pid: 4 remain time 2, will be running for 2 sec
+Running: #4 for 2 sec ...
+Q: 1 P: 4 C: 1543146785 E: 1543146792 T: 7016
+Q #1 >>> pid: 0 remain time 6, will be running for 2 sec
+Running: #0 for 2 sec ...
+Q #1 >>> pid: 0 remain time 4, will be running for 2 sec
+Running: #0 for 2 sec ...
+Q #1 >>> pid: 0 remain time 2, will be running for 2 sec
+Running: #0 for 2 sec ...
+Q: 1 P: 0 C: 1543146781 E: 1543146798 T: 17032
+Q: 2 P: 2 C: 1543146783 S: 1543146798 R: 15026
+Q #2 >>> pid: 2 remain time 1, will be running for 1 sec
+Running: #2 for 1 sec ...
+Q: 2 P: 2 C: 1543146783 E: 1543146799 T: 16030
+Q: 2 P: 1 C: 1543146782 S: 1543146799 R: 17034
+Q #2 >>> pid: 1 remain time 4, will be running for 2 sec
+Running: #1 for 2 sec ...
+Q: 2 P: 3 C: 1543146784 S: 1543146801 R: 17028
+Q #2 >>> pid: 3 remain time 5, will be running for 2 sec
+Running: #3 for 2 sec ...
+Q #2 >>> pid: 1 remain time 2, will be running for 2 sec
+Running: #1 for 2 sec ...
+Q: 2 P: 1 C: 1543146782 E: 1543146805 T: 23040
+Q #2 >>> pid: 3 remain time 3, will be running for 2 sec
+Running: #3 for 2 sec ...
+Q #2 >>> pid: 3 remain time 1, will be running for 1 sec
+Running: #3 for 1 sec ...
+Q: 2 P: 3 C: 1543146784 E: 1543146808 T: 24040
+Average response time: 11421.40 milliseconds
+Average turn around time: 19434.00 milliseconds

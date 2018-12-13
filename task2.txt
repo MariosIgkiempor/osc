@@ -1,0 +1,124 @@
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Generating process for SJF ...
+SJF: add first
+Add: pid 0 into the queue with time 8
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1542798015 sec 446490 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 2 elements in total
+#[0]: 0 running-time 8 created-time 1542798015 sec 446490 usec 1 priority
+#[1]: 1 running-time 4 created-time 1542798016 sec 447375 usec 2 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 3 elements in total
+#[0]: 0 running-time 8 created-time 1542798015 sec 446490 usec 1 priority
+#[1]: 1 running-time 4 created-time 1542798016 sec 447375 usec 2 priority
+#[2]: 2 running-time 1 created-time 1542798017 sec 449982 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 4 elements in total
+#[0]: 0 running-time 8 created-time 1542798015 sec 446490 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542798018 sec 454263 usec 2 priority
+#[2]: 1 running-time 4 created-time 1542798016 sec 447375 usec 2 priority
+#[3]: 2 running-time 1 created-time 1542798017 sec 449982 usec 2 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 5 elements in total
+#[0]: 0 running-time 8 created-time 1542798015 sec 446490 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542798018 sec 454263 usec 2 priority
+#[2]: 4 running-time 4 created-time 1542798019 sec 455350 usec 1 priority
+#[3]: 1 running-time 4 created-time 1542798016 sec 447375 usec 2 priority
+#[4]: 2 running-time 1 created-time 1542798017 sec 449982 usec 2 priority
+Running: #4 for 1 sec ...
+C: 1542798017 S: 1542798020 E: 1542798021 R:3008 T:4010
+Running: #3 for 4 sec ...
+C: 1542798016 S: 1542798021 E: 1542798025 R:5013 T:9013
+Running: #2 for 4 sec ...
+C: 1542798019 S: 1542798025 E: 1542798029 R:6005 T:10010
+Running: #1 for 5 sec ...
+C: 1542798018 S: 1542798029 E: 1542798034 R:11012 T:16016
+Running: #0 for 8 sec ...
+C: 1542798015 S: 1542798034 E: 1542798042 R:19024 T:27027
+Average response time: 8812.40 milliseconds
+Average turn around time: 13215.20 milliseconds
+➜  coursework1 gcc -std=c99 osc_queue.c coursework.c task2.c -o task2 && ./task2
+coursework.c:34:2: warning: implicit declaration of function 'sleep' is invalid in C99
+      [-Wimplicit-function-declaration]
+        sleep(1);
+        ^
+coursework.c:42:2: warning: implicit declaration of function 'sleep' is invalid in C99
+      [-Wimplicit-function-declaration]
+        sleep(t);
+        ^
+2 warnings generated.
+Initialising ...
+Init: successfully malloc element with size of 5 ...
+There are 0 elements in total
+#[0]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+Generating process for SJF ...
+SJF: add first
+Add: pid 0 into the queue with time 8
+There are 1 elements in total
+#[0]: 0 running-time 8 created-time 1542867960 sec 400721 usec 1 priority
+#[1]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 2 elements in total
+#[0]: 0 running-time 8 created-time 1542867960 sec 400721 usec 1 priority
+#[1]: 1 running-time 4 created-time 1542867961 sec 406185 usec 2 priority
+#[2]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 3 elements in total
+#[0]: 0 running-time 8 created-time 1542867960 sec 400721 usec 1 priority
+#[1]: 1 running-time 4 created-time 1542867961 sec 406185 usec 2 priority
+#[2]: 2 running-time 1 created-time 1542867962 sec 407620 usec 2 priority
+#[3]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 4 elements in total
+#[0]: 0 running-time 8 created-time 1542867960 sec 400721 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542867963 sec 410316 usec 2 priority
+#[2]: 1 running-time 4 created-time 1542867961 sec 406185 usec 2 priority
+#[3]: 2 running-time 1 created-time 1542867962 sec 407620 usec 2 priority
+#[4]: 0 running-time 0 created-time 0 sec 0 usec 0 priority
+SJF: add new largest
+There are 5 elements in total
+#[0]: 0 running-time 8 created-time 1542867960 sec 400721 usec 1 priority
+#[1]: 3 running-time 5 created-time 1542867963 sec 410316 usec 2 priority
+#[2]: 4 running-time 4 created-time 1542867964 sec 412802 usec 1 priority
+#[3]: 1 running-time 4 created-time 1542867961 sec 406185 usec 2 priority
+#[4]: 2 running-time 1 created-time 1542867962 sec 407620 usec 2 priority
+Running: #4 for 1 sec ...
+C: 1542867962 S: 1542867965 E: 1542867966 R:3008 T:4010
+Running: #3 for 4 sec ...
+C: 1542867961 S: 1542867966 E: 1542867970 R:5012 T:9017
+Running: #2 for 4 sec ...
+C: 1542867964 S: 1542867970 E: 1542867974 R:6011 T:10011
+Running: #1 for 5 sec ...
+C: 1542867963 S: 1542867974 E: 1542867979 R:11013 T:16015
+Running: #0 for 8 sec ...
+C: 1542867960 S: 1542867979 E: 1542867987 R:19025 T:27025
+Average response time: 8813.80 milliseconds
+Average turn around time: 16218.60 milliseconds
